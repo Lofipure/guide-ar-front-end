@@ -3,7 +3,7 @@ type DataType = {
 };
 
 const data: DataType = {
-  4: ['castle_town', 'chinese_fantasy'],
+  4: ['castle_town', 'chinese_fantasy', 'four_ground'],
 };
 
 export default data;

@@ -21,6 +21,9 @@ const data: DataType = {
   chinese_fantasy: {
     name: '中国古典建筑',
   },
+  four_ground: {
+    name: '四合院',
+  },
 };
 
 export default data;

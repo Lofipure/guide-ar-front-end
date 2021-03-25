@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-03-14 08:50:49
- * @LastEditTime: 2021-03-21 14:42:32
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /guide-ar-front-end/src/layouts/index.tsx
- */
 import React from 'react';
 import { history } from 'umi';
 import { Layout } from 'antd';
