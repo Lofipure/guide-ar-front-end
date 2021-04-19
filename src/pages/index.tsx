@@ -1,9 +1,12 @@
-import styles from './index.less';
-
-export default function IndexPage() {
+import * as React from 'react';
+// @ts-ignore
+import Home from '../Home';
+const App: React.FC = (): JSX.Element => {
   return (
-    <div>
-      <h1 className={styles.title}>Page index</h1>
+    <div className="index">
+      <Home />
     </div>
   );
-}
+};
+
+export default App;
